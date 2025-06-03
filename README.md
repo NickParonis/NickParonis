@@ -1,17 +1,19 @@
 
-Welcome to my GitHub! I'm a passionate **Developer** with more than 5 years of experience across web and desktop applications and backend systems. I've worked on everything from CRM/ERP systems to educational platforms and HR management solutions in companies located in Netherlands and Greece.
-
-### 🧰 Tech Stack & Tools
-- **Languages:** C#, JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** .NET MVC, Node.js, React, WordPress
-- **Tools:** Git, SQL Server, Splunk, API Gateways, Google Analytics
-- **Practices:** Test-driven development, Agile, UI/UX collaboration
+Welcome to my GitHub! I'm a full-stack **Developer** with more than 5 years of experience across web and desktop applications. I've worked on everything from CRM/ERP systems to educational platforms and HR management solutions in companies located in Netherlands and Greece.
 
 ---
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+I build robust systems with clean architecture and SOLID principles — designing APIs and data layers that are clean, fast, and reliable.
+
+![C#](https://img.shields.io/badge/C%23-264de4?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-264de4?style=flat&logo=dotnet&logoColor=white&labelColor=264de4)
+![SQL](https://img.shields.io/badge/SQL-264de4?style=flat&logo=postgresql&logoColor=white&labelColor=264de4)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-264de4?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=264de4)
+
 ---
-
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+I enjoy crafting smooth, responsive interfaces and can bring any UI design to digital life.
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-264de4?style=flat&logo=javascript&logoColor=white&labelColor=264de4)
+![TypeScript](https://img.shields.io/badge/TypeScript-264de4?style=flat&logo=typescript&logoColor=white&labelColor=264de4)
+![Node.js](https://img.shields.io/badge/Node.js-264de4?style=flat&logo=node.js&logoColor=white&labelColor=264de4)
+![React](https://img.shields.io/badge/React-264de4?style=flat&logo=react&logoColor=white&labelColor=264de4)
+![CSS Animations](https://img.shields.io/badge/CSS%20Animations-264de4?style=flat&logo=css3&logoColor=white&labelColor=264de4)
