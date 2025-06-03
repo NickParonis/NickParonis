@@ -8,6 +8,10 @@ Welcome to my GitHub! I'm a passionate **Developer** with more than 5 years of e
 - **Practices:** Test-driven development, Agile, UI/UX collaboration
 
 ---
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+---
 
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
