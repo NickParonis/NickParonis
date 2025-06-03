@@ -6,8 +6,7 @@ I build robust systems with clean architecture and SOLID principles — designin
 
 ![C#](https://img.shields.io/badge/C%23-264de4?style=flat&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/.NET-264de4?style=flat&logo=dotnet&logoColor=white&labelColor=264de4)
-![SQL](https://img.shields.io/badge/SQL-264de4?style=flat&logo=postgresql&logoColor=white&labelColor=264de4)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-264de4?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=264de4)
+![SQL](https://img.shields.io/badge/SQL%20Server-264de4?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=264de4)
 
 I enjoy crafting smooth, responsive interfaces and can bring any UI design to digital life.
   
