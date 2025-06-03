@@ -9,7 +9,6 @@ I build robust systems with clean architecture and SOLID principles — designin
 ![SQL](https://img.shields.io/badge/SQL-264de4?style=flat&logo=postgresql&logoColor=white&labelColor=264de4)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-264de4?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=264de4)
 
----
 I enjoy crafting smooth, responsive interfaces and can bring any UI design to digital life.
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-264de4?style=flat&logo=javascript&logoColor=white&labelColor=264de4)
