@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**NickParonis/NickParonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm Nick
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate **Fullstack Developer** with experience across web and desktop applications, backend systems, and technical operations. I've worked on everything from CRM/ERP systems to educational platforms and HR management solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack & Tools
+
+- **Languages:** C#, JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** .NET MVC, Node.js, React, WordPress
+- **Tools:** Git, SQL Server, Splunk, API Gateways, Google Analytics
+- **Practices:** Test-driven development, Agile, UI/UX collaboration
+
+---
+
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
